@@ -1,6 +1,0 @@
-[package]
-name = "linked_list"
-version = "0.1.0"
-authors = ["Raymond Cox <raymond@raymondjcox.com>"]
-
-[dependencies]
